@@ -1,2 +1,2 @@
-⛩️ Trabalho no MyAnimeList
+#⛩️ Trabalho no MyAnimeList
 
