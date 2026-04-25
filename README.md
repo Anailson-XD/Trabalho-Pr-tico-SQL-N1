@@ -1,1 +1,2 @@
-# Trabalho-Pratico-SQL-N1
+⛩️ Trabalho no MyAnimeList
+
