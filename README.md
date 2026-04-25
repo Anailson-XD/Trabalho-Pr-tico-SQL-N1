@@ -1,1 +1,1 @@
-# Trabalho-Pr-tico-SQL-N1
+# Trabalho-Pratico-SQL-N1
